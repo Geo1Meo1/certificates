@@ -3,7 +3,7 @@ layout: default
 title: Portofolio Sertifikat Irwan
 ---
 
-# Sertifikat & Pencapaian Irwan
+# Sertifikat & Pencapaian Saya
 
 Kumpulan sertifikat pelatihan cybersecurity, administrasi jaringan, dan ethical hacking yang telah saya selesaikan.
 
